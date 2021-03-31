@@ -7,6 +7,7 @@ function Footer(props) {
             <footer>
                 Copy Right<br/>
                 <Link href="/blog/post">Post</Link>
+                {/* test */}
             </footer>
         </div>
     );
